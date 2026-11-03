@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        TOMCAT_HOST = '13.63.166.149'
+        TOMCAT_HOST = '13.49.23.111'
         TOMCAT_USER = 'root'
         DEPLOY_PATH = '/opt/tomcat/webapps'
     }
